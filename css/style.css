@@ -78,7 +78,6 @@ blockquote p {
 	position:relative;
 	font-size:14px;
 	font-weight:bold;
-	letter-spacing:2;
 	font-family: 'Montserrat', sans-serif;
 	text-transform:uppercase;
 	color:#666;
@@ -1057,7 +1056,6 @@ section.dec-sec:after {
 	 right:5%;
 	 bottom:5%;
 	 left:25%;
-	  -webkit-perspective: 1000;
 	  z-index:1;
 }
 .mm-par-wrap:before {
